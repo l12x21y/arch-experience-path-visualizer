@@ -10,5 +10,5 @@
    `npm run dev`
 
    
-## Visit through：
+## Visit through
 - spatial-mapping-xinyaolyu.netlify.app
